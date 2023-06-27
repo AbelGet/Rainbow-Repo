@@ -6,7 +6,6 @@ Yello
 Orange
 Red
 Purple
-Indigo
 
 Unicorn
 
