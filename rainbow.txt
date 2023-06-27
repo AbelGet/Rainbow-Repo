@@ -1,4 +1,4 @@
-The Rainbow Color, Unicorns and Ponies
+The Rainbow Colors, Unicorns, and Ponies
 
 Green 
 Blue
@@ -6,6 +6,7 @@ Yello
 Orange
 Red
 Purple
+Indigo
 
 Unicorn
 
