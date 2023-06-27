@@ -3,5 +3,7 @@ The Rainbow Color
 Green 
 Blue
 Yello
+Orange
+Red
 
-Those are the colors of rainbow
+Those are the colors of the rainbow
