@@ -1,4 +1,4 @@
-The Rainbow Color and Unicorn
+The Rainbow Color, Unicorns and Ponies
 
 Green 
 Blue
@@ -8,5 +8,7 @@ Red
 Purple
 
 Unicorn
+
+Pony
 
 Those are the colors of the rainbow
